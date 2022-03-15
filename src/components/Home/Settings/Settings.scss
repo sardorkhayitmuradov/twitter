@@ -1,0 +1,29 @@
+.settings__list {
+  list-style: none;
+}
+
+.settings__item {
+  max-width: 155px;
+  width: 100%;
+  margin-bottom: 32px;
+}
+
+.settings__item:nth-child(8) {
+  margin-bottom: 15px;
+}
+
+.settings__link {
+  display: flex;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #331a1a;
+  text-decoration: none;
+}
+
+.settings__icon {
+  margin-right: 20px;
+}

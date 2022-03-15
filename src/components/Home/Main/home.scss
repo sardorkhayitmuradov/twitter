@@ -1,0 +1,17 @@
+.home-container {
+  max-width: 438px;
+  width: 100%;
+  padding-left: 170px;
+}
+
+.stick {
+  position: absolute;
+  top: 0;
+  left: 436px;
+  display: inline-block;
+  height: 100%;
+  width: 2px;
+  outline: none;
+  border: none;
+  background-color: #c4c4c4;
+}
